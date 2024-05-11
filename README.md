@@ -7,7 +7,24 @@
 见 https://github.com/caizio/SMS
 
 ### 引用
-Wangmin Cai, Peiqiang Liu, Zunfang Wang, et al. Link prediction in protein-protein interaction network: a similarity multiplied similarity algorithm with paths of length three[J]. Journal of Theoretical Biology.（已录用，但尚未见刊）
+@article{SMS,
+
+title = {Link prediction in protein-protein interaction network: A similarity multiplied similarity algorithm with paths of length three},
+
+journal = {Journal of Theoretical Biology},
+
+pages = {111850},
+
+year = {2024},
+
+issn = {0022-5193},
+
+doi = {https://doi.org/10.1016/j.jtbi.2024.111850},
+
+url = {https://www.sciencedirect.com/science/article/pii/S0022519324001310},
+
+author = {Wangmin Cai and Peiqiang Liu and Zunfang Wang and Hong Jiang and Chang Liu and Zhaojie Fei and Zhuang Yang}
+}
 
 ### 联系
 如果你有什么问题，可以联系我。我的邮箱：caizio@qq.com
