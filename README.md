@@ -9,9 +9,11 @@
 ### 引用
 @article{SMS,
 
-title = {Link prediction in protein-protein interaction network: A similarity multiplied similarity algorithm with paths of length three},
+title = {Link prediction in protein–protein interaction network: A similarity multiplied similarity algorithm with paths of length three},
 
 journal = {Journal of Theoretical Biology},
+
+volume = {589},
 
 pages = {111850},
 
@@ -24,6 +26,7 @@ doi = {https://doi.org/10.1016/j.jtbi.2024.111850},
 url = {https://www.sciencedirect.com/science/article/pii/S0022519324001310},
 
 author = {Wangmin Cai and Peiqiang Liu and Zunfang Wang and Hong Jiang and Chang Liu and Zhaojie Fei and Zhuang Yang}
+
 }
 
 ### 联系
